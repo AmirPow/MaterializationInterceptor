@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaterializationInterceptor", "MaterializationInterceptor.csproj", "{7FBA33C6-9513-48D5-98E8-537A99E29372}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "..\Entities\Entities.csproj", "{8FF0A5E8-143F-412D-A5BC-EDC44CA66B2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FBA33C6-9513-48D5-98E8-537A99E29372}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FBA33C6-9513-48D5-98E8-537A99E29372}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FBA33C6-9513-48D5-98E8-537A99E29372}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FBA33C6-9513-48D5-98E8-537A99E29372}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FF0A5E8-143F-412D-A5BC-EDC44CA66B2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FF0A5E8-143F-412D-A5BC-EDC44CA66B2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FF0A5E8-143F-412D-A5BC-EDC44CA66B2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FF0A5E8-143F-412D-A5BC-EDC44CA66B2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFAD2909-0219-4C59-863E-FA6C33B7B8D5}
+	EndGlobalSection
+EndGlobal
